@@ -6,7 +6,6 @@
 </p>
 
 
-
 <!-- Intro Section -->
 <p align="center">
  , I'm <b>Hansel D'souza</b><br>
