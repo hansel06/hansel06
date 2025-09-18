@@ -19,7 +19,7 @@ Always experimenting, always learning, and always coding. <br>
 
 <!-- Retro GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif" width="400px">
+  <img src="https://www.deviantart.com/pixeljeff/art/Coding-990517671" width="400px">
 </p>
 
 ---
