@@ -93,8 +93,6 @@
 <summary>🔍 Click to view detailed GitHub stats</summary>
 <br>
 
-![Hansel's GitHub stats](https://github-readme-stats.vercel.app/api?username=hansel06&show_icons=true&theme=radical&title_color=FF61F6&icon_color=FF33CC&text_color=E1E1E1&bg_color=000000)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=hansel06&theme=radical&background=000000&border=FF61F6&stroke=FF61F6&ring=FF33CC&fire=FF61F6&currStreakLabel=FF33CC)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansel06&layout=compact&theme=radical&bg_color=000000&title_color=FF61F6&text_color=E1E1E1)
