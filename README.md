@@ -19,7 +19,7 @@ Always experimenting, always learning, and always coding. <br>
 
 <!-- Retro GIF -->
 <p align="center">
-  <img src="https://github.com/hansel06/hansel06/blob/dbb500cb22e418e98b36b862f25aebbe60638efa/retro.gif" width="800px">
+  <img src="https://github.com/hansel06/hansel06/blob/dbb500cb22e418e98b36b862f25aebbe60638efa/retro.gif" width="1000px">
 </p>
 
 ---
