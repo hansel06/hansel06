@@ -73,11 +73,33 @@
 
 ## 📈 PERFORMANCE METRICS
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=hansel06&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=FF61F6&icon_color=FF33CC&text_color=E1E1E1"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hansel06&theme=synthwave&hide_border=true&background=0d1117&stroke=FF61F6&ring=FF33CC&fire=FF61F6&currStreakLabel=FF33CC"/>
+```
+┌─────────────────────────────────────────────────────────┐
+│                    SYSTEM DIAGNOSTICS                  │
+├─────────────────────────────────────────────────────────┤
+│  📊 Commits This Year    │ ████████████░░░░  75%       │
+│  🔥 Current Streak       │ ██████████████░░  85%       │
+│  ⭐ Stars Earned         │ ████████░░░░░░░░  60%       │
+│  🚀 Active Repos         │ ███████████████░  90%       │
+│  💻 Code Quality         │ ████████████████ 100%       │
+│  🧠 Problem Solving      │ ███████████████░  95%       │
+├─────────────────────────────────────────────────────────┤
+│  Primary Languages: Python • JavaScript • Java         │
+│  Status: ✅ All systems operational                     │
+└─────────────────────────────────────────────────────────┘
+```
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansel06&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=FF61F6&text_color=E1E1E1"/>
-<img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=hansel06&theme=synthwave&hide_border=true&bg_color=0d1117&color=FF61F6&line=FF33CC&point=8E44AD"/>
+<details>
+<summary>🔍 Click to view detailed GitHub stats</summary>
+<br>
+
+![Hansel's GitHub stats](https://github-readme-stats.vercel.app/api?username=hansel06&show_icons=true&theme=radical&title_color=FF61F6&icon_color=FF33CC&text_color=E1E1E1&bg_color=000000)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=hansel06&theme=radical&background=000000&border=FF61F6&stroke=FF61F6&ring=FF33CC&fire=FF61F6&currStreakLabel=FF33CC)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansel06&layout=compact&theme=radical&bg_color=000000&title_color=FF61F6&text_color=E1E1E1)
+
+</details>
 
 </div>
 
