@@ -9,10 +9,10 @@
 <!-- Intro Section -->
 <!-- Intro Section -->
 <p align="center" style="font-family: 'Press Start 2P', cursive; font-size: 16px; line-height: 1.6;">
-  <b>👋 Hey, I'm Hansel D'souza</b><br><br>
-  <span style="font-size: 14px;">
+  <b> Waddup, I'm Hansel D'souza</b><br><br>
+  <span style="font-size: 20px;">
     A passionate <b>Full Stack Python Developer</b> who loves building projects with <b>AI & ML</b>.<br>
-    Always experimenting, always learning, and always coding. 🚀
+    Always experimenting, always learning, and always coding. 
   </span>
 </p>
 
