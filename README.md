@@ -8,13 +8,16 @@
 
 <!-- Intro Section -->
 <!-- Intro Section -->
-<p align="center" style="font-family: 'Press Start 2P', cursive; font-size: 16px; line-height: 1.6;">
-  <b> Waddup, I'm Hansel D'souza</b><br><br>
-  <span style="font-size: 50px;">
-    A passionate <b>Full Stack Python Developer</b> who loves building projects with <b>AI & ML</b>.<br>
-    Always experimenting, always learning, and always coding. 
-  </span>
+<h2 align="center">
+  <span style="color:#FF61F6;"> Waaddup waddup, I'm Hansel D'souza</span>
+</h2>
+
+<p align="center">
+  A passionate <b><span style="color:#FF33CC;">Full Stack Python Developer</span></b> 
+  who loves building projects with <span style="color:#8E44AD;"><b>AI & ML</b></span>.<br>
+  Always experimenting, always learning, and always coding. 
 </p>
+
 
 
 
