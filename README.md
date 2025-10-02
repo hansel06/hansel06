@@ -88,29 +88,8 @@
 │  Status: ✅ All systems operational                     │
 └─────────────────────────────────────────────────────────┘
 
-
-```
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hansel06&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF61F6&icon_color=FF33CC&text_color=E1E1E1&count_private=true&include_all_commits=true" alt="GitHub Stats" width="495"/>
-    </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=hansel06&theme=radical&hide_border=true&background=0d1117&stroke=FF61F6&ring=FF33CC&fire=FF61F6&currStreakLabel=FF33CC&border=FF61F6" alt="GitHub Streak" width="495"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hansel06&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF61F6&text_color=E1E1E1&langs_count=8" alt="Top Languages" width="495"/>
-    </td>
-    <td align="center">
-      <img src="https://github-contributor-stats.vercel.app/api?username=hansel06&limit=5&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF61F6&text_color=E1E1E1&icon_color=FF33CC" alt="Contributions" width="495"/>
-    </td>
-  </tr>
-</table>
 ```
 
-```
 <details>
 <summary>🔍 Click to view detailed GitHub stats</summary>
 <br>
