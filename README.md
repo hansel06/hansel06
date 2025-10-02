@@ -74,22 +74,7 @@
   
 ## 📈 PERFORMANCE METRICS
 
-```
-┌─────────────────────────────────────────────────────────┐
-│                    SYSTEM DIAGNOSTICS                  │
-├─────────────────────────────────────────────────────────┤
-│  📊 Commits This Year    │ ████████████░░░░  75%       │
-│  🔥 Current Streak       │ ██████████████░░  85%       │
-│  ⭐ Stars Earned         │ ████████░░░░░░░░  60%       │
-│  🚀 Active Repos         │ ███████████████░  90%       │
-│  💻 Code Quality         │ ████████████████ 100%       │
-│  🧠 Problem Solving      │ ███████████████░  95%       │
-├─────────────────────────────────────────────────────────┤
-│  Primary Languages: Python • JavaScript • Java         │
-│  Status: ✅ All systems operational                     │
-└─────────────────────────────────────────────────────────┘
 
-```
 
 <div align="center">
 
